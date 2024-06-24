@@ -1,7 +1,7 @@
 
 import './App.css';
 import {useState, useRef} from "react";
-import logo from "./assets/festivida.png";
+import logo from "./assets/ae.png";
 
 import ClientDetails from './components/ClientDetails';
 import Dates from './components/Dates';
